@@ -1,6 +1,7 @@
 package it.epicode.Pizzeria_D2.pizza;
 
 import it.epicode.Pizzeria_D2.menu.RigaMenu;
+import it.epicode.Pizzeria_D2.topping.Topping;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
